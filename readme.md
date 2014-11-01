@@ -9,3 +9,9 @@ Go to ~/.vimrc, some settings
 
 ## Conkyrc
 Go to ~/.conkyrc, minimalist conky
+
+## Colors
+colors.sh display colorset in terminal
+
+## NumixBlue
+Elegance Colors presets for Numix-Blue GTK theme
