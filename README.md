@@ -1,4 +1,0 @@
-fedora
-======
-
-Fedora config stuff
