@@ -16,4 +16,4 @@ colors.sh display colorset in terminal
 ## NumixBlue
 Elegance Colors presets for Numix-Blue GTK theme
 
-![EC preset](https://github.com/LiquidGit/fedora/numix.jpg)
+![EC preset](https://github.com/LiquidGit/fedora/blob/master/numix.jpg)
